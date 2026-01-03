@@ -5,7 +5,7 @@ const startBtn = document.querySelector(".start-btn");
 const playerXInput = document.getElementById("playerX");
 const playerOInput = document.getElementById("playerO");
 
-// variables
+// variables to be Used
 let currentPlayer;
 let gameGrid;
 let playerXName = "Player X";
