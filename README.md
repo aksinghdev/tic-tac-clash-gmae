@@ -21,3 +21,14 @@ The project focuses on clean UI, smooth gameplay logic, and an engaging user exp
 <br/>
 - ⚡ Smooth and dynamic gameplay logic
 <br/>
+
+## 🛠️ Technologies Used
+<br/>
+- **HTML5** – Structure of the game
+<br/>
+- **CSS3** – Styling and responsive design
+<br/>
+- **JavaScript (ES6)** – Game logic and interactivity
+<br/>
+
+
